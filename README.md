@@ -1,3 +1,6 @@
+
+[![DOI](https://zenodo.org/badge/1281489246.svg)](https://doi.org/10.5281/zenodo.20938998)
+
 # SpacetimeSpectralPassExamples.jl
 
 **Paper:** [TODO: add link]
